@@ -6033,7 +6033,7 @@ input[type='button'].btn-block
 
     word-wrap: break-word;
 
-    border: 1px solid #eaecf3;
+    border: 1px solid #088523;
     border-radius: .75rem; 
     background-color: #fff;
     background-clip: border-box;
@@ -8637,7 +8637,7 @@ button.bg-light:focus
 
 .bg-dark
 {
-    background-color: #171347 !important;
+    background-color: #0a3b22 !important;
 }
 
 a.bg-dark:hover,
@@ -15921,7 +15921,7 @@ button.bg-gray-dark:focus
 
 .bg-section-dark
 {
-    background-color: #0e0b2b !important;
+    background-color: #0a3b22 !important;
 }
 
 .bg-brand-facebook

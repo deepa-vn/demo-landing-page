@@ -5,3 +5,6 @@ services:
         build: .
         ports: 
             - "15700:90"
+        volumes:
+            - /root/deepa/demo-landing-page:/usr/share/nginx/html/
+            - /root/deepa/demo-landing-page:/var/www/html/
