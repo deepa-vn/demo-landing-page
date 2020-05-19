@@ -5,4 +5,3 @@ services:
         build: .
         ports: 
             - "15700:90"
-        restart: always
